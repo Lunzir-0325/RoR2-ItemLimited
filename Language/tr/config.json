@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " öğe limitinin üzerinde, fazla kısım artıklara dönüştürülür",
+		"LIMIT_ITEM_PROHIBITED": " yasaklanmış öğe",
+		"LIMIT_ITEM_REACH_MAX": " öğe sınırına ulaştı"
+	} 
+}

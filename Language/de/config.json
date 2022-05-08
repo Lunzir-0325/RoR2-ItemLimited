@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " über dem Artikellimit, überschüssiger Teil wird in Ausschuss umgewandelt",
+		"LIMIT_ITEM_PROHIBITED": " ist ein verbotener Gegenstand",
+		"LIMIT_ITEM_REACH_MAX": " hat sein Item-Limit erreicht"
+	} 
+}

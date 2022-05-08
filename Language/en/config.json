@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " over item limit, excess portion converted to scraps",
+		"LIMIT_ITEM_PROHIBITED": " is prohibited item",
+		"LIMIT_ITEM_REACH_MAX": " has reached its item limit"
+	} 
+}

@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": "超过物品上限，多出来的部分变成碎片",
+		"LIMIT_ITEM_PROHIBITED": "为禁用物品",
+		"LIMIT_ITEM_REACH_MAX": "已达到物品上限"
+	} 
+}

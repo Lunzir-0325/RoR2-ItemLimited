@@ -1,0 +1,11 @@
+{
+    "name": "ItemLimited",
+    "version_number": "1.1.61",
+    "website_url": "https://github.com/Lunzir-0325",
+    "description": "Help my friends made this. Limit item and convert excess items to scraps or drop to the ground, now added equipment limit. 限制物品上限，多出部分转换成碎片或掉在地上，现在增加主动装备限制。",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1905",
+        "RiskofThunder-HookGenPatcher-1.2.3",
+		"tristanmcpherson-R2API-4.3.21"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " por encima del límite de artículos, parte sobrante convertida en desechos",
+		"LIMIT_ITEM_PROHIBITED": " es un objeto prohibido",
+		"LIMIT_ITEM_REACH_MAX": " ha alcanzado su límite de elementos"
+	} 
+}

@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " アイテムの制限を超え、余分な部分がスクラップに変換されました",
+		"LIMIT_ITEM_PROHIBITED": " 禁止事項です",
+		"LIMIT_ITEM_REACH_MAX": " アイテムの制限に達しました"
+	} 
+}

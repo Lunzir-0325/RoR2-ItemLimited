@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"LIMIT_ITEM_TO_SCRAP": " 품목 제한 초과, 초과 부분은 스크랩으로 전환",
+		"LIMIT_ITEM_PROHIBITED": " 금지 품목입니다",
+		"LIMIT_ITEM_REACH_MAX": " 아이템 한도에 도달했습니다"
+	} 
+}
